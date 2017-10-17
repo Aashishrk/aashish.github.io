@@ -1,0 +1,38 @@
+
+
+.navbar-inverse{
+	background :#2c3e50;
+}
+
+
+.navbar-custom .navbar-nav>li>a {
+
+	color: black;
+}
+.contentPost{
+	display: none;
+}
+
+
+.navbar-inverse .navbar-brand{
+	color: white;
+}
+.jumbotron{
+	background: url("xhappy-independence-day-twitter-images.jpg.pagespeed.ic.1ro9PIniFE.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 100%;
+    background-color: rgba(255,255,255,0.1);
+    background-blend-mode: lighten;
+}
+
+body {
+	background: url("xhappy-independence-day-twitter-images.jpg.pagespeed.ic.1ro9PIniFE.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 100%;
+    background-color: rgba(255,255,255,0.3);
+    background-blend-mode: lighten;
+}
